@@ -71,7 +71,7 @@ patterns = analyze_prompt_structure(data)
 
 with open("detected_patterns_issues.csv", "w", newline="", encoding="utf-8") as csvfile:
     csv_writer = csv.writer(csvfile)
-    csv_writer.writerow(["Pull Request Number", "Detected Pattern", "State", "Time Lapsed", "Number of Prompts", "Conversation"])
+    csv_writer.writerow(["Issue Number", "Detected Pattern", "State", "Time Lapsed", "Number of Prompts", "Conversation"])
     for number, pattern, state, time_lapsed, number_of_prompts, conversation_url in patterns:
         csv_writer.writerow([number, pattern, state, time_lapsed, number_of_prompts, conversation_url])
 

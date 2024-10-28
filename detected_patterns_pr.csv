@@ -1,4 +1,4 @@
-Pull Request Number,Detected Structure,State,Time Lapsed,Number of Prompts,Conversation URL
+Pull Request Number,Detected Pattern,State,Time Lapsed,Number of Prompts,Conversation
 20,Output Automator Pattern,Closed,16:44:32,3,https://chat.openai.com/share/6a1f6db3-3ea1-444a-90d5-01df38ee7f52
 3,Simple Instruction Pattern,Closed,23:27:10,20,https://chat.openai.com/share/76af53fb-7cc5-4f5c-acd5-7fd1c2ad26cf
 638,Output Automator Pattern,Open,,3,https://chat.openai.com/share/b515e3dc-6193-4550-8d5d-3ecaa8088755
