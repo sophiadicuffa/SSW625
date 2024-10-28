@@ -4,7 +4,7 @@ import json
 import csv
 from datetime import datetime
 
-with open('raw/pr.json', 'r') as file:
+with open('raw/pr2.json', 'r') as file:
     data = json.load(file)
 
 def analyze_prompt_structure(data):
@@ -69,10 +69,10 @@ def analyze_prompt_structure(data):
 
 patterns = analyze_prompt_structure(data)
 
-with open("detected_patterns_pr.csv", "w", newline="", encoding="utf-8") as csvfile:
+with open("detected_patterns_pr2.csv", "w", newline="", encoding="utf-8") as csvfile:
     csv_writer = csv.writer(csvfile)
     csv_writer.writerow(["Pull Request Number", "Detected Pattern", "State", "Time Lapsed", "Number of Prompts", "Conversation"])
     for number, pattern, state, time_lapsed, number_of_prompts, conversation_url in patterns:
         csv_writer.writerow([number, pattern, state, time_lapsed, number_of_prompts, conversation_url])
 
-print("detected_patterns.csv_pr.")
+print("detected_patterns.csv_pr2.")

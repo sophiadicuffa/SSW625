@@ -1,0 +1,223 @@
+Issue Number,Detected Pattern,State,Time Lapsed,Number of Prompts,Conversation
+7,Question Pattern,Open,,1,https://chat.openai.com/share/e377307e-039a-4f1d-a4e9-cbaa462474a2
+9,Output Automator Pattern,Open,,N/A,https://chat.openai.com/share/dcedb99c-f79c-41ad-a0d6-dbf9ae483b6d
+1,Template Pattern,Open,,1,https://chat.openai.com/share/b9df6ce0-f2c9-4129-9f66-80dd303a7b32
+39,Output Automator Pattern,Open,,2,https://chat.openai.com/share/47222295-450c-42fa-9fa7-4e71a68a1254
+40,Output Automator Pattern,Open,,5,https://chat.openai.com/share/0b26f548-9912-44fc-816c-fe06d157b4d7
+1,Output Automator Pattern,Open,,4,https://chat.openai.com/share/f44fdac2-da91-428b-b0dc-b7dcbcfbb605
+13,Question Pattern,Open,,11,https://chat.openai.com/share/c89a2b32-e45a-4134-9088-e28ba068f816
+77,Question Pattern,Open,,2,https://chat.openai.com/share/2a82e086-024e-4b63-968d-7c8834c9642c
+54,Output Automator Pattern,Open,,N/A,https://chat.openai.com/share/f06748f3-6413-40a2-a187-c62743360388
+129,Output Automator Pattern,Open,,1,https://chat.openai.com/share/dd82b2ad-dd07-40dc-bd65-52bd3b44ef94
+2,Simple Instruction Pattern,Open,,3,https://chat.openai.com/share/a84b6f14-d3e1-43df-ada9-5b16f748b129
+2,Question Pattern,Open,,3,https://chat.openai.com/share/a84b6f14-d3e1-43df-ada9-5b16f748b129
+2,Simple Instruction Pattern,Open,,N/A,https://chat.openai.com/share/0cc528aa-79ce-4d57-b2cc-45e07d269200
+2,Question Pattern,Open,,N/A,https://chat.openai.com/share/0cc528aa-79ce-4d57-b2cc-45e07d269200
+4,Question Pattern,Open,,19,https://chat.openai.com/share/dde3b8ef-8c8a-4ba6-95b4-0227490d4580
+11,Output Automator Pattern,Open,,3,https://chat.openai.com/share/5add2125-221e-4035-8cf3-04d711420b00
+3056,Simple Instruction Pattern,Open,,3,https://chat.openai.com/share/ea806555-dfea-4516-b542-5ac45a6790e8
+3056,Question Pattern,Open,,3,https://chat.openai.com/share/ea806555-dfea-4516-b542-5ac45a6790e8
+55,Question Pattern,Open,,2,https://chat.openai.com/share/2f2b6625-e84f-469e-8e4c-42e6ac0ea449
+239,Output Automator Pattern,Open,,2,https://chat.openai.com/share/a72ed419-d449-4348-a018-96ab6813f8fc
+6,Output Automator Pattern,Open,,1,https://chat.openai.com/share/8f6a2f51-5bf6-4401-b03c-2c2a7873c5b0
+3,Output Automator Pattern,Open,,2,https://chat.openai.com/share/855babea-021d-4307-85ce-be934ee9104f
+18,Question Pattern,Open,,2,https://chat.openai.com/share/b50316a4-0f63-4813-8888-9cb3ca68b7f1
+54,Output Automator Pattern,Open,,1,https://chat.openai.com/share/9c9bdec2-3c94-47b1-9233-32c3da3fa31d
+54,Question Pattern,Open,,1,https://chat.openai.com/share/9c9bdec2-3c94-47b1-9233-32c3da3fa31d
+3745,Output Automator Pattern,Open,,3,https://chat.openai.com/share/31026c31-0583-4e16-ac87-ef34e1b94e62
+3745,Question Pattern,Open,,3,https://chat.openai.com/share/31026c31-0583-4e16-ac87-ef34e1b94e62
+3745,Output Automator Pattern,Open,,11,https://chat.openai.com/share/07630b06-2d96-4ef8-be7b-d32208922f39
+3745,Question Pattern,Open,,11,https://chat.openai.com/share/07630b06-2d96-4ef8-be7b-d32208922f39
+91,Question Pattern,Open,,1,https://chat.openai.com/share/78f1d49b-2b20-4b92-814d-7149b6c39f22
+3087,Simple Instruction Pattern,Open,,1,https://chat.openai.com/share/63d127d9-3abd-418e-8580-e90825bff8bd
+3087,Question Pattern,Open,,1,https://chat.openai.com/share/63d127d9-3abd-418e-8580-e90825bff8bd
+2,Output Automator Pattern,Open,,4,https://chat.openai.com/share/a3622816-ce00-455e-a178-a75791555e5a
+186,Context and Instruction Pattern,Open,,N/A,https://chat.openai.com/share/7ee3b2de-ca73-40f0-b28d-56990ce68fed
+5,Output Automator Pattern,Closed,"5 days, 3:35:30",3,https://chat.openai.com/share/86111521-7f64-4c67-8273-43a21d76c8df
+35,Output Automator Pattern,Open,,5,https://chat.openai.com/share/2f397ea3-c3bb-4d08-bc61-901c1fba623b
+35,Simple Instruction Pattern,Open,,5,https://chat.openai.com/share/2f397ea3-c3bb-4d08-bc61-901c1fba623b
+35,Question Pattern,Open,,5,https://chat.openai.com/share/2f397ea3-c3bb-4d08-bc61-901c1fba623b
+67,Question Pattern,Open,,4,https://chat.openai.com/share/039dc385-393b-4354-a95c-5c9d69a5da26
+1,Output Automator Pattern,Closed,"5 days, 10:26:30",2,https://chat.openai.com/share/2923bee5-8f62-4b75-9e5c-d23ae3cfc96b
+1,Simple Instruction Pattern,Closed,"5 days, 10:26:30",2,https://chat.openai.com/share/2923bee5-8f62-4b75-9e5c-d23ae3cfc96b
+300,Recipe Pattern,Open,,2,https://chat.openai.com/share/3b804a18-c795-41e6-8254-335e340e9347
+30,Question Pattern,Open,,1,https://chat.openai.com/share/d222b399-ffcb-4377-84ae-f0399107313f
+439,Output Automator Pattern,Open,,6,https://chat.openai.com/share/50c8e7f0-eec8-42a7-9289-188e8b1251fe
+439,Simple Instruction Pattern,Open,,6,https://chat.openai.com/share/50c8e7f0-eec8-42a7-9289-188e8b1251fe
+1941,Persona Pattern,Open,,4,https://chat.openai.com/share/f868ed70-e3bd-4809-9226-2526c7a5d6cd
+1941,Output Automator Pattern,Open,,4,https://chat.openai.com/share/f868ed70-e3bd-4809-9226-2526c7a5d6cd
+1941,Context and Instruction Pattern,Open,,4,https://chat.openai.com/share/f868ed70-e3bd-4809-9226-2526c7a5d6cd
+1941,Question Pattern,Open,,4,https://chat.openai.com/share/f868ed70-e3bd-4809-9226-2526c7a5d6cd
+248,Question Pattern,Closed,"2 days, 3:54:41",30,https://chat.openai.com/share/a1bbd00d-c9d7-4846-a9af-12c6a475cd20
+4,Output Automator Pattern,Closed,"15 days, 1:08:03",10,https://chat.openai.com/share/207c1f53-dd6a-4a19-a3f8-04b6f3b611cf
+22,Template Pattern,Closed,"3 days, 21:36:50",2,https://chat.openai.com/share/65a0a5eb-2ac7-478b-87d9-7a62b3471ab2
+22,Output Automator Pattern,Closed,"3 days, 21:36:50",2,https://chat.openai.com/share/65a0a5eb-2ac7-478b-87d9-7a62b3471ab2
+22,Simple Instruction Pattern,Closed,"3 days, 21:36:50",2,https://chat.openai.com/share/65a0a5eb-2ac7-478b-87d9-7a62b3471ab2
+22,Template Pattern,Closed,"3 days, 21:36:50",2,https://chat.openai.com/share/65a0a5eb-2ac7-478b-87d9-7a62b3471ab2
+22,Output Automator Pattern,Closed,"3 days, 21:36:50",2,https://chat.openai.com/share/65a0a5eb-2ac7-478b-87d9-7a62b3471ab2
+22,Simple Instruction Pattern,Closed,"3 days, 21:36:50",2,https://chat.openai.com/share/65a0a5eb-2ac7-478b-87d9-7a62b3471ab2
+339,Question Pattern,Open,,1,https://chat.openai.com/share/f372451b-1439-42ee-b5cb-a004e74030d0
+12,Output Automator Pattern,Closed,"4 days, 7:01:02",1,https://chat.openai.com/share/23eafab7-6eac-4900-b46b-1683684c73ae
+12,Question Pattern,Closed,"4 days, 7:01:02",1,https://chat.openai.com/share/23eafab7-6eac-4900-b46b-1683684c73ae
+26,Output Automator Pattern,Closed,"21 days, 3:23:08",2,https://chat.openai.com/share/17cb00bd-7a36-49d3-87c3-da00883850f4
+320,Question Pattern,Open,,3,https://chat.openai.com/share/7089929a-32d3-4729-b1f6-40962f5c53c9
+182,Output Automator Pattern,Open,,2,https://chat.openai.com/share/85140d0d-25db-45a6-8d37-0151faf9507d
+182,Question Pattern,Open,,2,https://chat.openai.com/share/85140d0d-25db-45a6-8d37-0151faf9507d
+70,Output Automator Pattern,Closed,"1 day, 0:24:36",9,https://chat.openai.com/share/aa72b7fb-fb5f-432c-b295-a2e68c3e61fd
+70,Context and Instruction Pattern,Closed,"1 day, 0:24:36",9,https://chat.openai.com/share/aa72b7fb-fb5f-432c-b295-a2e68c3e61fd
+70,Question Pattern,Closed,"1 day, 0:24:36",9,https://chat.openai.com/share/aa72b7fb-fb5f-432c-b295-a2e68c3e61fd
+49,Question Pattern,Closed,"13 days, 1:23:10",1,https://chat.openai.com/share/b99fc143-1870-4f94-b604-2fd4c56e9c49
+365,Output Automator Pattern,Open,,N/A,https://chat.openai.com/share/14941dfc-f648-4521-84af-a2b13e457526
+365,Simple Instruction Pattern,Open,,N/A,https://chat.openai.com/share/14941dfc-f648-4521-84af-a2b13e457526
+124,Output Automator Pattern,Open,,13,https://chat.openai.com/share/b4ab526c-0037-4fcc-b96e-7919e3e6e579
+124,Simple Instruction Pattern,Open,,13,https://chat.openai.com/share/b4ab526c-0037-4fcc-b96e-7919e3e6e579
+124,Question Pattern,Open,,13,https://chat.openai.com/share/b4ab526c-0037-4fcc-b96e-7919e3e6e579
+63,Output Automator Pattern,Closed,"1 day, 16:37:17",8,https://chat.openai.com/share/e3b4ae7c-87fe-494f-919c-57b46d9e177c
+7,Template Pattern,Closed,"14 days, 19:11:55",5,https://chat.openai.com/share/6c80950f-44a9-4fe5-aa86-84e66c815b07
+17,Output Automator Pattern,Closed,"4 days, 20:19:28",1,https://chat.openai.com/share/52305262-66c1-4b11-92e0-b81694dae809
+149,Persona Pattern,Closed,"1 day, 0:57:52",1,https://chat.openai.com/share/184ff4fa-49c5-40f6-9d6c-0a0b2d13971b
+74,Simple Instruction Pattern,Open,,N/A,https://chat.openai.com/share/f311dbbd-ceda-4e0d-9c41-f6a732b49952
+74,Question Pattern,Open,,N/A,https://chat.openai.com/share/f311dbbd-ceda-4e0d-9c41-f6a732b49952
+137,Question Pattern,Open,,1,https://chat.openai.com/share/2a9730d7-e762-4075-8b49-2c6ebc4a3d7b
+7942,Question Pattern,Closed,0:26:42,3,https://chat.openai.com/share/33867c63-5def-4c0a-9ad0-19317f737515
+126140,Persona Pattern,Open,,2,https://chat.openai.com/share/c1a94bb0-0536-4c93-a12b-54ce2eed44de
+126140,Template Pattern,Open,,2,https://chat.openai.com/share/c1a94bb0-0536-4c93-a12b-54ce2eed44de
+126140,Output Automator Pattern,Open,,2,https://chat.openai.com/share/c1a94bb0-0536-4c93-a12b-54ce2eed44de
+126140,Simple Instruction Pattern,Open,,2,https://chat.openai.com/share/c1a94bb0-0536-4c93-a12b-54ce2eed44de
+126140,Context and Instruction Pattern,Open,,2,https://chat.openai.com/share/c1a94bb0-0536-4c93-a12b-54ce2eed44de
+126140,Question Pattern,Open,,2,https://chat.openai.com/share/c1a94bb0-0536-4c93-a12b-54ce2eed44de
+650,Output Automator Pattern,Open,,1,https://chat.openai.com/share/272694a2-47f3-46ce-8888-d390b8c8233d
+650,Output Automator Pattern,Open,,1,https://chat.openai.com/share/8ec42ffa-b3e5-4e62-8139-202b776c61f2
+5,Question Pattern,Open,,10,https://chat.openai.com/share/3461da01-6e49-4324-9ece-cc2be1134f04
+1495,Question Pattern,Open,,5,https://chat.openai.com/share/92d3c71d-be76-4821-8b98-9c73e6312ebf
+14,Output Automator Pattern,Closed,20:02:29,1,https://chat.openai.com/share/15c78377-85e0-4dea-8657-9149c84a57e6
+166,Persona Pattern,Open,,2,https://chat.openai.com/share/c30f92f3-461f-4441-9de3-f9affa239404
+166,Output Automator Pattern,Open,,2,https://chat.openai.com/share/c30f92f3-461f-4441-9de3-f9affa239404
+166,Simple Instruction Pattern,Open,,2,https://chat.openai.com/share/c30f92f3-461f-4441-9de3-f9affa239404
+166,Question Pattern,Open,,2,https://chat.openai.com/share/c30f92f3-461f-4441-9de3-f9affa239404
+71,Question Pattern,Open,,1,https://chat.openai.com/share/c9b839a8-d582-459a-8a66-8228d8e12e11
+71,Question Pattern,Open,,1,https://chat.openai.com/share/c9b839a8-d582-459a-8a66-8228d8e12e11
+10,Output Automator Pattern,Closed,"149 days, 23:31:58",4,https://chat.openai.com/share/94563ef8-29de-4a93-8693-69af585b5013
+4,Output Automator Pattern,Closed,17:03:12,5,https://chat.openai.com/share/7efbd567-cfaf-40c5-997a-7ceb1edeac37
+802,Output Automator Pattern,Closed,0:22:43,1,https://chat.openai.com/share/58022604-2a05-4ab9-b1dd-8a4c3e8bb471
+802,Simple Instruction Pattern,Closed,0:22:43,1,https://chat.openai.com/share/58022604-2a05-4ab9-b1dd-8a4c3e8bb471
+802,Question Pattern,Closed,0:22:43,1,https://chat.openai.com/share/58022604-2a05-4ab9-b1dd-8a4c3e8bb471
+802,Output Automator Pattern,Closed,0:22:43,N/A,https://chat.openai.com/share/ccb6baed-bed1-458f-989f-7f7c31ca4ac4
+802,Simple Instruction Pattern,Closed,0:22:43,N/A,https://chat.openai.com/share/ccb6baed-bed1-458f-989f-7f7c31ca4ac4
+802,Question Pattern,Closed,0:22:43,N/A,https://chat.openai.com/share/ccb6baed-bed1-458f-989f-7f7c31ca4ac4
+4,Output Automator Pattern,Closed,"4 days, 8:49:04",N/A,https://chat.openai.com/share/1ccca5c3-a5be-485a-bedf-6486564e191c
+9,Output Automator Pattern,Closed,"22 days, 20:08:52",5,https://chat.openai.com/share/fe27a52f-44c0-460a-b857-e848469048c5
+9,Simple Instruction Pattern,Closed,"22 days, 20:08:52",5,https://chat.openai.com/share/fe27a52f-44c0-460a-b857-e848469048c5
+9,Context and Instruction Pattern,Closed,"22 days, 20:08:52",5,https://chat.openai.com/share/fe27a52f-44c0-460a-b857-e848469048c5
+19,Output Automator Pattern,Closed,0:24:12,3,https://chat.openai.com/share/b9873d04-5978-489f-8c6b-4b948db7724d
+19,Simple Instruction Pattern,Open,,N/A,https://chat.openai.com/share/07633379-bb0b-481a-9912-0a86e5b7cff8
+6,Recipe Pattern,Open,,9,https://chat.openai.com/share/312e82f0-cc5e-47f3-b368-b2c0c0f4ad3f
+6,Output Automator Pattern,Open,,9,https://chat.openai.com/share/312e82f0-cc5e-47f3-b368-b2c0c0f4ad3f
+6,Simple Instruction Pattern,Open,,9,https://chat.openai.com/share/312e82f0-cc5e-47f3-b368-b2c0c0f4ad3f
+6,Question Pattern,Open,,9,https://chat.openai.com/share/312e82f0-cc5e-47f3-b368-b2c0c0f4ad3f
+724,Output Automator Pattern,Closed,1:18:18,1,https://chat.openai.com/share/9e596556-c973-4792-9968-745df248cab3
+724,Simple Instruction Pattern,Closed,1:18:18,1,https://chat.openai.com/share/9e596556-c973-4792-9968-745df248cab3
+724,Context and Instruction Pattern,Closed,1:18:18,1,https://chat.openai.com/share/9e596556-c973-4792-9968-745df248cab3
+10030,Simple Instruction Pattern,Closed,3:31:24,6,https://chat.openai.com/share/87632455-5b84-4408-901d-e34a2227183a
+10030,Question Pattern,Closed,3:31:24,6,https://chat.openai.com/share/87632455-5b84-4408-901d-e34a2227183a
+4037,Output Automator Pattern,Open,,1,https://chat.openai.com/share/ce4247fa-e95c-4188-b612-21fc64c1f7a1
+4037,Question Pattern,Open,,1,https://chat.openai.com/share/ce4247fa-e95c-4188-b612-21fc64c1f7a1
+17733,Simple Instruction Pattern,Closed,12:04:45,N/A,https://chat.openai.com/share/2b64ea9d-9a42-4415-bee5-253f848b96ae
+17733,Question Pattern,Closed,12:04:45,N/A,https://chat.openai.com/share/2b64ea9d-9a42-4415-bee5-253f848b96ae
+17733,Simple Instruction Pattern,Closed,12:04:45,N/A,https://chat.openai.com/share/2b64ea9d-9a42-4415-bee5-253f848b96ae
+17733,Question Pattern,Closed,12:04:45,N/A,https://chat.openai.com/share/2b64ea9d-9a42-4415-bee5-253f848b96ae
+43,Output Automator Pattern,Closed,"22 days, 23:41:51",2,https://chat.openai.com/share/20ac2b35-652c-49f0-bdc0-2e303a547cb6
+43,Simple Instruction Pattern,Closed,"22 days, 23:41:51",2,https://chat.openai.com/share/20ac2b35-652c-49f0-bdc0-2e303a547cb6
+43,Question Pattern,Closed,"22 days, 23:41:51",2,https://chat.openai.com/share/20ac2b35-652c-49f0-bdc0-2e303a547cb6
+25,Output Automator Pattern,Closed,"1 day, 16:42:19",1,https://chat.openai.com/share/9e60d3c3-0130-4897-be30-48eb0bd0136d
+25,Simple Instruction Pattern,Closed,"1 day, 16:42:19",1,https://chat.openai.com/share/9e60d3c3-0130-4897-be30-48eb0bd0136d
+25,Question Pattern,Closed,"1 day, 16:42:19",1,https://chat.openai.com/share/9e60d3c3-0130-4897-be30-48eb0bd0136d
+105,Output Automator Pattern,Open,,2,https://chat.openai.com/share/d3f52223-4235-4421-a359-73070ea6d652
+2,Output Automator Pattern,Open,,1,https://chat.openai.com/share/a8064b62-0e3e-4604-926f-56f2868e3d63
+2,Simple Instruction Pattern,Open,,1,https://chat.openai.com/share/a8064b62-0e3e-4604-926f-56f2868e3d63
+2,Context and Instruction Pattern,Open,,1,https://chat.openai.com/share/a8064b62-0e3e-4604-926f-56f2868e3d63
+2,Question Pattern,Open,,1,https://chat.openai.com/share/a8064b62-0e3e-4604-926f-56f2868e3d63
+7762,Output Automator Pattern,Closed,"3 days, 14:52:32",N/A,https://chat.openai.com/share/18a7d15f-d4cd-4dc7-be01-fcc7f825083d
+78,Output Automator Pattern,Open,,13,https://chat.openai.com/share/161a66d1-fe1a-4cd9-93e2-ef144471b522
+78,Simple Instruction Pattern,Open,,13,https://chat.openai.com/share/161a66d1-fe1a-4cd9-93e2-ef144471b522
+78,Question Pattern,Open,,13,https://chat.openai.com/share/161a66d1-fe1a-4cd9-93e2-ef144471b522
+249,Simple Instruction Pattern,Closed,"16 days, 1:04:08",3,https://chat.openai.com/share/71395f9c-3cc5-4de3-b5b8-524bc2cb6b7d
+1238,Output Automator Pattern,Open,,1,https://chat.openai.com/share/196a1527-2929-4e59-bd06-c5d6a04d1ad0
+1238,Simple Instruction Pattern,Open,,1,https://chat.openai.com/share/196a1527-2929-4e59-bd06-c5d6a04d1ad0
+1064,Output Automator Pattern,Open,,4,https://chat.openai.com/share/195c8a66-0734-4977-988d-0dc22fc03cc2
+1064,Simple Instruction Pattern,Open,,4,https://chat.openai.com/share/195c8a66-0734-4977-988d-0dc22fc03cc2
+1064,Question Pattern,Open,,4,https://chat.openai.com/share/195c8a66-0734-4977-988d-0dc22fc03cc2
+43,Simple Instruction Pattern,Open,,10,https://chat.openai.com/share/abbfabd7-1d44-4876-a213-aaf5ace164b5
+43,Question Pattern,Open,,10,https://chat.openai.com/share/abbfabd7-1d44-4876-a213-aaf5ace164b5
+52,Output Automator Pattern,Open,,1,https://chat.openai.com/share/b0e9f648-21a6-4069-b474-a4a60e8f334d
+52,Question Pattern,Open,,1,https://chat.openai.com/share/b0e9f648-21a6-4069-b474-a4a60e8f334d
+84,Output Automator Pattern,Closed,6:43:22,4,https://chat.openai.com/share/39425667-83e4-41e8-9205-9e3ef476f4ee
+84,Simple Instruction Pattern,Closed,6:43:22,4,https://chat.openai.com/share/39425667-83e4-41e8-9205-9e3ef476f4ee
+84,Question Pattern,Closed,6:43:22,4,https://chat.openai.com/share/39425667-83e4-41e8-9205-9e3ef476f4ee
+902,Output Automator Pattern,Closed,"1 day, 9:14:36",4,https://chat.openai.com/share/26ff7e69-5f1b-4a71-a8bd-613270a03ac1
+902,Question Pattern,Closed,"1 day, 9:14:36",4,https://chat.openai.com/share/26ff7e69-5f1b-4a71-a8bd-613270a03ac1
+902,Output Automator Pattern,Closed,"1 day, 9:14:36",4,https://chat.openai.com/share/26ff7e69-5f1b-4a71-a8bd-613270a03ac1
+902,Question Pattern,Closed,"1 day, 9:14:36",4,https://chat.openai.com/share/26ff7e69-5f1b-4a71-a8bd-613270a03ac1
+126891,Persona Pattern,Closed,"19 days, 16:55:48",2,https://chat.openai.com/share/5b5a8f3e-e899-4859-823c-710e018fd96e
+126891,Template Pattern,Closed,"19 days, 16:55:48",2,https://chat.openai.com/share/5b5a8f3e-e899-4859-823c-710e018fd96e
+126891,Output Automator Pattern,Closed,"19 days, 16:55:48",2,https://chat.openai.com/share/5b5a8f3e-e899-4859-823c-710e018fd96e
+126891,Question Pattern,Closed,"19 days, 16:55:48",2,https://chat.openai.com/share/5b5a8f3e-e899-4859-823c-710e018fd96e
+14,Template Pattern,Closed,0:47:51,9,https://chat.openai.com/share/ff041b92-992d-40f0-b411-42a49ff0b3e3
+2869,Persona Pattern,Closed,"32 days, 10:40:11",2,https://chat.openai.com/share/eae464a8-ecdd-4fd9-abca-6ba55916f626
+2869,Output Automator Pattern,Closed,"32 days, 10:40:11",2,https://chat.openai.com/share/eae464a8-ecdd-4fd9-abca-6ba55916f626
+2869,Question Pattern,Closed,"32 days, 10:40:11",2,https://chat.openai.com/share/eae464a8-ecdd-4fd9-abca-6ba55916f626
+185,Persona Pattern,Closed,"26 days, 21:09:53",4,https://chat.openai.com/share/08654d52-0c47-453d-88e4-5353d4c03aa1
+185,Output Automator Pattern,Closed,"26 days, 21:09:53",4,https://chat.openai.com/share/08654d52-0c47-453d-88e4-5353d4c03aa1
+185,Question Pattern,Closed,"26 days, 21:09:53",4,https://chat.openai.com/share/08654d52-0c47-453d-88e4-5353d4c03aa1
+185,Persona Pattern,Closed,"26 days, 21:09:53",3,https://chat.openai.com/share/dda1e1e2-f52f-49c1-ac2e-ece2f0488cb7
+185,Output Automator Pattern,Closed,"26 days, 21:09:53",3,https://chat.openai.com/share/dda1e1e2-f52f-49c1-ac2e-ece2f0488cb7
+185,Question Pattern,Closed,"26 days, 21:09:53",3,https://chat.openai.com/share/dda1e1e2-f52f-49c1-ac2e-ece2f0488cb7
+12,Simple Instruction Pattern,Open,,2,https://chat.openai.com/share/c16c8e58-664a-421d-9d73-4ff60ef72b70
+12,Question Pattern,Open,,2,https://chat.openai.com/share/c16c8e58-664a-421d-9d73-4ff60ef72b70
+519,Persona Pattern,Open,,2,https://chat.openai.com/share/8786aa4f-53c2-4b25-95a0-c29e7223da12
+519,Question Pattern,Open,,2,https://chat.openai.com/share/8786aa4f-53c2-4b25-95a0-c29e7223da12
+198,Question Pattern,Closed,"35 days, 18:24:08",1,https://chat.openai.com/share/b88bc79b-1b83-4fda-a08a-1bdb92466f70
+198,Question Pattern,Closed,"35 days, 18:24:08",1,https://chat.openai.com/share/891bc9d6-dbc7-40d1-9632-daef859627f8
+198,Question Pattern,Closed,"35 days, 18:24:08",1,https://chat.openai.com/share/42dd6ac5-be61-484f-be5c-15195c944a50
+198,Question Pattern,Closed,"35 days, 18:24:08",1,https://chat.openai.com/share/52c9e3ff-f95c-4f87-b5f2-a4071930977b
+198,Question Pattern,Closed,"35 days, 18:24:08",1,https://chat.openai.com/share/891bc9d6-dbc7-40d1-9632-daef859627f8
+198,Question Pattern,Closed,"35 days, 18:24:08",1,https://chat.openai.com/share/42dd6ac5-be61-484f-be5c-15195c944a50
+198,Question Pattern,Closed,"35 days, 18:24:08",1,https://chat.openai.com/share/52c9e3ff-f95c-4f87-b5f2-a4071930977b
+198,Question Pattern,Closed,"35 days, 18:24:08",1,https://chat.openai.com/share/891bc9d6-dbc7-40d1-9632-daef859627f8
+198,Question Pattern,Closed,"35 days, 18:24:08",1,https://chat.openai.com/share/42dd6ac5-be61-484f-be5c-15195c944a50
+198,Question Pattern,Closed,"35 days, 18:24:08",1,https://chat.openai.com/share/52c9e3ff-f95c-4f87-b5f2-a4071930977b
+4293,Output Automator Pattern,Open,,7,https://chat.openai.com/share/52b550ce-90ae-4ded-9364-2e1bdbdfa302
+5,Persona Pattern,Open,,7,https://chat.openai.com/share/d09826e1-ebb0-4584-9e89-d379ac7363b8
+5,Output Automator Pattern,Open,,7,https://chat.openai.com/share/d09826e1-ebb0-4584-9e89-d379ac7363b8
+5,Question Pattern,Open,,7,https://chat.openai.com/share/d09826e1-ebb0-4584-9e89-d379ac7363b8
+15,Simple Instruction Pattern,Open,,2,https://chat.openai.com/share/b9d6a4b6-db57-46fc-bd70-46214355484b
+15,Context and Instruction Pattern,Open,,2,https://chat.openai.com/share/b9d6a4b6-db57-46fc-bd70-46214355484b
+15,Question Pattern,Open,,2,https://chat.openai.com/share/b9d6a4b6-db57-46fc-bd70-46214355484b
+18,Output Automator Pattern,Closed,1:29:36,3,https://chat.openai.com/share/b062955d-3601-4051-b6d9-80cef9228233
+1385,Output Automator Pattern,Open,,5,https://chat.openai.com/share/2f7c5c0c-2307-4ef7-ae3d-0e9cb244a717
+294,Output Automator Pattern,Closed,"17 days, 0:38:08",2,https://chat.openai.com/share/83b0156d-aa19-45a8-b6d5-d5baf7edfe51
+76,Recipe Pattern,Open,,1,https://chat.openai.com/share/e3a05c2e-7dd4-4e97-bc3d-fd6decd49285
+76,Question Pattern,Open,,1,https://chat.openai.com/share/e3a05c2e-7dd4-4e97-bc3d-fd6decd49285
+526,Output Automator Pattern,Open,,7,https://chat.openai.com/share/d09826e1-ebb0-4584-9e89-d379ac7363b8
+526,Simple Instruction Pattern,Open,,7,https://chat.openai.com/share/d09826e1-ebb0-4584-9e89-d379ac7363b8
+526,Context and Instruction Pattern,Open,,7,https://chat.openai.com/share/d09826e1-ebb0-4584-9e89-d379ac7363b8
+526,Question Pattern,Open,,7,https://chat.openai.com/share/d09826e1-ebb0-4584-9e89-d379ac7363b8
+69,Output Automator Pattern,Closed,0:42:25,5,https://chat.openai.com/share/3fd24c1d-dabd-4a69-94d6-14ff79e692c0
+69,Question Pattern,Closed,0:42:25,5,https://chat.openai.com/share/3fd24c1d-dabd-4a69-94d6-14ff79e692c0
+1,Output Automator Pattern,Closed,1:01:52,1,https://chat.openai.com/share/2d026c56-7b00-490e-b7fd-62a76c7e49c2
+302,Question Pattern,Closed,"38 days, 21:45:22",1,https://chat.openai.com/share/53a0b68f-b8da-4b21-baef-e5f28b0b4270
+302,Question Pattern,Closed,"38 days, 21:45:22",1,https://chat.openai.com/share/53a0b68f-b8da-4b21-baef-e5f28b0b4270
+3,Template Pattern,Closed,"12 days, 5:45:33",1,https://chat.openai.com/share/d4a336e7-46bb-4930-91ab-ad0ae297dd97
+3,Output Automator Pattern,Closed,"12 days, 5:45:33",1,https://chat.openai.com/share/d4a336e7-46bb-4930-91ab-ad0ae297dd97
+3,Simple Instruction Pattern,Closed,"12 days, 5:45:33",1,https://chat.openai.com/share/d4a336e7-46bb-4930-91ab-ad0ae297dd97
+3,Question Pattern,Closed,"12 days, 5:45:33",1,https://chat.openai.com/share/d4a336e7-46bb-4930-91ab-ad0ae297dd97
+246,Question Pattern,Closed,"7 days, 0:56:27",N/A,https://chat.openai.com/share/060d75d4-b91c-45e2-adec-55b14b8178fa
+2773,Output Automator Pattern,Closed,"59 days, 17:12:36",3,https://chat.openai.com/share/cd25dd60-323c-4c35-8a8f-01447b7ff4e8
+97,Output Automator Pattern,Closed,"112 days, 7:55:12",1,https://chat.openai.com/share/34e5b946-3189-4bcd-91de-c17e49d54391
+11916,Simple Instruction Pattern,Closed,"3 days, 17:49:22",1,https://chat.openai.com/share/585f1ad4-b12d-42cb-81af-87eda9144f48
+11916,Simple Instruction Pattern,Closed,"3 days, 17:49:22",1,https://chat.openai.com/share/585f1ad4-b12d-42cb-81af-87eda9144f48
+288,Simple Instruction Pattern,Closed,"48 days, 16:46:43",1,https://chat.openai.com/share/43ed295b-993b-4c4f-9782-a746b9140e8c
+288,Question Pattern,Closed,"48 days, 16:46:43",1,https://chat.openai.com/share/43ed295b-993b-4c4f-9782-a746b9140e8c
+1,Output Automator Pattern,Closed,"788 days, 22:56:19",22,https://chat.openai.com/share/0b86282d-7073-41c5-ba97-40de9902ae01
+1,Simple Instruction Pattern,Closed,"788 days, 22:56:19",22,https://chat.openai.com/share/0b86282d-7073-41c5-ba97-40de9902ae01
+1,Question Pattern,Closed,"788 days, 22:56:19",22,https://chat.openai.com/share/0b86282d-7073-41c5-ba97-40de9902ae01
