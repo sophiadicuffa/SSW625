@@ -1,5 +1,4 @@
- # prompt_pattern_issues
-
+# prompt_pattern_issues
 import json
 import csv
 from datetime import datetime
@@ -54,6 +53,7 @@ def analyze_prompt_structure(data):
         for item in conversations:
             number_of_prompts = item.get("NumberOfPrompts", "N/A")
             conversation_url = item.get("URL", "N/A")
+            first_prompt = item.get("Conversations", [{}])[0].get("Prompt", "N/A")  # Extract the first prompt
 
             for pattern in body_patterns:
                 detected_patterns.append((
@@ -62,7 +62,8 @@ def analyze_prompt_structure(data):
                     state,
                     time_lapsed,
                     number_of_prompts,
-                    conversation_url
+                    conversation_url,
+                    first_prompt
                 ))
 
     return detected_patterns
@@ -71,8 +72,8 @@ patterns = analyze_prompt_structure(data)
 
 with open("detected_patterns_issues2.csv", "w", newline="", encoding="utf-8") as csvfile:
     csv_writer = csv.writer(csvfile)
-    csv_writer.writerow(["Issue Number", "Detected Pattern", "State", "Time Lapsed", "Number of Prompts", "Conversation"])
-    for number, pattern, state, time_lapsed, number_of_prompts, conversation_url in patterns:
-        csv_writer.writerow([number, pattern, state, time_lapsed, number_of_prompts, conversation_url])
+    csv_writer.writerow(["Issue Number", "Detected Pattern", "State", "Time Lapsed", "Number of Prompts", "Conversation", "First Prompt"])
+    for number, pattern, state, time_lapsed, number_of_prompts, conversation_url, first_prompt in patterns:
+        csv_writer.writerow([number, pattern, state, time_lapsed, number_of_prompts, conversation_url, first_prompt])
 
-print("detected_patterns_issues_2.csv.")
+print("detected_patterns_issues2.csv created.")
